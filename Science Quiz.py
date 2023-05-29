@@ -69,9 +69,9 @@ for question_num, question in randomized_questions:
         print('INCORRECT!')
         print(f'The correct answer is {answers[question_num]}')
 
-print('--------------------')
-print('       RESULTS      ')
-print('--------------------')
+print('----------------------')
+print('       |RESULTS|      ')
+print('----------------------')
 
 print('Questions: ')
 for idx, question in randomized_questions:
